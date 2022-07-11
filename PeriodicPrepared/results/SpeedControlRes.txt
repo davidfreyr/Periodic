@@ -1,0 +1,8 @@
+500 iterations computed in 73.561789834 sec. : t_j = 1/(j+0)
+Best estimate of Restoration Entropy 
+obtained in iteration 459 with 
+a : (pow of x_1, pow of x_2, etc. )  : coefficient 
+
+p :
+2.104951276993678 -0.6906124638865934
+-0.6906124638865934 0.7016530935504267
